@@ -63,6 +63,7 @@ Dependencies:
 - ipset
 - iptables
 - iptables-mod-tproxy
+- luci-lib-jsonc
 - resolveip
 - dnsmasq-full (dnsmasq ipset is required)
 
